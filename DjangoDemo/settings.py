@@ -4,7 +4,7 @@ DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
-    # ('Your Name', 'your_email@example.com'),
+    # ('pipi2142001', '5748863@qq.com'),
 )
 
 MANAGERS = ADMINS
